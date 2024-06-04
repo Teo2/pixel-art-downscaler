@@ -24,11 +24,5 @@ Pixel art typically uses a limited color palette. To achieve this:
 - The program identifies the most prominent colors in the image.
 - It then restricts the image to this reduced set of colors, ensuring the result adheres to the aesthetic of traditional pixel art.
 
-## Examples
-
-Here is an example of what the program can do:
-
-
-
 
 This program bridges the gap between AI-generated images and true pixel art, ensuring a high-quality, authentic output.
